@@ -2,7 +2,7 @@
 
 反射測定用GUI
 
-Oceanopticsのsetupはこちらの記事を参考にインストールと設定をしてください。
+Oceanopticsのインストールと設定はこちらの記事を参考にしてください。
 
 [Python module for Ocean Optics spectrometersのインストール方法](https://qiita.com/Gyutan/items/d792bb36f5a862836d63)
 
